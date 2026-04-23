@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Dijsktra Algorithm Console
+Senior Project
 ===============
 
 -   **Class:** Algorithms
 -   **Grade:**  NA
 -   **Language(s):** C++
--   **Source Code Repository:** [Source Code:](https://github.com/Helmut34/project4Portfolio-repo)  
+-   **Source Code Repository:** [Source Code:]([https://github.com/Helmut34/](https://github.com/Helmut34/CSU-Senior-Project-Meet-Me))  
     (Please [email me](mailto:helmut.cespedes@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -22,9 +22,7 @@ cd ./project2
 make run
 ```
 
-## UI Design
 
-Simple Console Design, After code is compiled the console outputs the matrix based on the verteces provided. Once the user enters a desired vetex to apply Djsktras algorithm to, the console outputs the distances.
 
 ![screenshot](images/consoleP4.png)  
 Fig 1. The launch screen

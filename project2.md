@@ -13,9 +13,11 @@ Meet Me In the Middle
 
 Coordinating group meetups is difficult when each person is spread across different locations. The main problems include people not wanting to travel and never being able to decide on a spot. This app aims to aid in the whole process by calculating a fair midpoint and provided venues based on everyone's preferences. 
 
-## How to run the program
+## Information
 
-Deployed Application
+For Test Plan Seee [Test Plan](https://github.com/Helmut34/CSU-Senior-Project-Meet-Me/blob/master/docs/Meet%20Me%20In%20The%20Middle.pdf).
+
+For more details see [Implementation Choices](https://github.com/Helmut34/CSU-Senior-Project-Meet-Me/blob/master/docs/Meet%20Me%20In%20The%20Middle.pdf).
 
 
 ## UI Design
@@ -37,8 +39,5 @@ Fig 4. Example showing the party invite modal.
 ![screenshot](images/suggestedSpots.png)  
 Fig 5. Example Showing Suggested Spots
 
-
-
-For more details see [GitHub Flavored Markdown](https://github.com/Helmut34/CSU-Senior-Project-Meet-Me/blob/master/docs/Meet%20Me%20In%20The%20Middle.pdf).
 
 [Back to Portfolio](./)

@@ -7,7 +7,6 @@ Meet Me In the Middle
 -   **Grade:** NA
 -   **Language(s):** Python, JS, SQL, CSS
 -   **Source Code Repository:** [Source Code:](https://github.com/Helmut34/CSU-Senior-Project-Meet-Me/)  
-    (Please [email me](mailto:helmut.cespedes@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 

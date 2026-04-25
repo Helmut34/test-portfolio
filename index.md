@@ -10,9 +10,9 @@ Programming Projects
 ![Frontend Page of Citation Parser](images/Project1.png)
 
 ---
-### [Running app for Event| CSCI 334](project2)
+### [Meet Me In The Middle| CSCI 499](project2)
 
-![Frontend Page of Running app](images/Project2.png)
+![Landing Page](images/LandingPage1.png)
 
 ---
 ### [Mapping Big Data| CSCI 325](project3)

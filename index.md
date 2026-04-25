@@ -4,8 +4,6 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:helmut.cespedes@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
-
 ---
 ### [ForeCite Citation Parser | CSCI 496](project1)
 
